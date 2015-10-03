@@ -1,0 +1,8 @@
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\EncodingTest\EncodingTest\bin\Release\EncodingTest.exe
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\EncodingTest\EncodingTest\bin\Release\EncodingTest.pdb
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\EncodingTest\EncodingTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\EncodingTest\EncodingTest\obj\Release\EncodingTest.Form1.resources
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\EncodingTest\EncodingTest\obj\Release\EncodingTest.Properties.Resources.resources
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\EncodingTest\EncodingTest\obj\Release\EncodingTest.csproj.GenerateResource.Cache
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\EncodingTest\EncodingTest\obj\Release\EncodingTest.exe
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\EncodingTest\EncodingTest\obj\Release\EncodingTest.pdb
